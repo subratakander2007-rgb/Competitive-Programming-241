@@ -1,7 +1,7 @@
 code = input("Enter book code: ")
 
 is_valid = True
-
+q
 if len(code) != 12:
     is_valid = False
 else:
